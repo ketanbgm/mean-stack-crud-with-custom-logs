@@ -1,0 +1,27 @@
+{"level":"info","message":"this won't be printed to the console","timestamp":"2017-04-03T18:40:26.485Z"}
+{"level":"info","message":"this won't be printed to the console","timestamp":"2017-04-03T18:40:45.018Z"}
+{"level":"error","message":"error uncaught exception","timestamp":"2017-04-03T18:46:34.931Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T18:48:25.850Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T19:25:05.761Z"}
+{"level":"error","message":"error uncaught exception","timestamp":"2017-04-03T19:25:05.764Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T19:25:52.709Z"}
+{"level":"error","message":"error uncaught exception","timestamp":"2017-04-03T19:25:52.710Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T19:26:19.353Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T19:28:02.084Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T19:57:57.432Z"}
+{"level":"error","message":"error uncaught exception","timestamp":"2017-04-03T19:57:57.436Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T19:58:19.233Z"}
+{"level":"error","message":"error uncaught exception","timestamp":"2017-04-03T19:58:19.236Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T19:59:26.455Z"}
+{"level":"error","message":"error uncaught exception","timestamp":"2017-04-03T19:59:26.458Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T20:01:18.636Z"}
+{"level":"error","message":"error uncaught exception","timestamp":"2017-04-03T20:01:18.639Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T20:03:26.534Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T20:17:14.915Z"}
+{"level":"error","message":"error uncaught exception","timestamp":"2017-04-03T20:17:14.919Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T20:17:47.155Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T20:36:48.690Z"}
+{"level":"error","message":"error uncaught exception","timestamp":"2017-04-03T20:36:48.693Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T20:37:44.027Z"}
+{"level":"error","message":"error uncaught exception","timestamp":"2017-04-03T20:37:44.030Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-03T20:38:26.561Z"}
