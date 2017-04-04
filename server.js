@@ -45,6 +45,9 @@ function createExpressApp(wallet, nextFunc){
 	    app.use(require('body-parser').urlencoded({ extended: false }));
 	    var http = require('http');
 	    wallet.app = app;
+	    app.on('error', function (err) {
+    console.error(err); // or whatever logger you want to use
+});
 	    return nextFunc()
 	}
 	catch(err){

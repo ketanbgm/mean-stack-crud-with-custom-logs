@@ -1,12 +1,12 @@
-function getUsers(req, res){
-	var Users = require('../models/user.js')
-	Users.find({}, function(err, users){
+function getUser(req, res) {
+	var User = require('../models/user.js')
+	User.find({}, function(err, user){
 		if(err){
 			console.log(err)
 		} else{
-			res.status(200).send(users);
+			res.status(200).send(user);
 		}
 	})
 }
 
-module.exports = getUsers;
+module.exports = getUser;
