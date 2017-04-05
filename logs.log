@@ -55,3 +55,10 @@
 {"level":"info","message":"info server running","timestamp":"2017-04-04T19:32:27.460Z"}
 {"level":"info","message":"info server running","timestamp":"2017-04-04T19:32:46.336Z"}
 {"level":"info","message":"info server running","timestamp":"2017-04-04T19:34:12.109Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-05T20:06:15.691Z"}
+{"level":"error","message":"error uncaught exception","timestamp":"2017-04-05T20:06:34.717Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-05T20:06:48.051Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-05T20:12:00.341Z"}
+{"level":"error","message":"error uncaught exception","timestamp":"2017-04-05T20:12:01.354Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-05T20:19:18.675Z"}
+{"level":"info","message":"info server running","timestamp":"2017-04-05T21:02:00.396Z"}

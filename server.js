@@ -43,6 +43,7 @@ function createExpressApp(wallet, nextFunc) {
 		var app = express();
 		app.use(require('body-parser').json());
 		app.use(require('body-parser').urlencoded({ extended: false }));
+		app.use(express.static(__dirname + '/public'));
 		var http = require('http');
 		wallet.app = app;
 		app.on('error', function (err) {
